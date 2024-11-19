@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env 
+
+# Playwright test results
+test-results/
+
+# VSCode settings
+.vscode/
+
+# TypeScript build output
+dist/
